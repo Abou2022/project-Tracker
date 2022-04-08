@@ -1,0 +1,13 @@
+header {
+  background: rgb(74, 74, 222);
+  color: white;
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+}
+.table {
+  border: 1px solid black;
+}
+li {
+  text-decoration: none;
+}
